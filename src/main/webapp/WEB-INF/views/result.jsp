@@ -5,7 +5,8 @@
 <body>
 
 <h2>Form Submitted</h2>
-<h3>${userdata}</h3>
+<p>Name: ${userdata.name}</p>
+<p>Email: ${userdata.email}</p>
 
 </body>
 </html>
